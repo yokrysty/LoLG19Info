@@ -1,0 +1,21 @@
+YourSummonerName
+EUNE
+
+
+Configuration file
+The application will read
+only first two lines of this file.
+1st line -> Your summoner name
+2nd line -> Your region (if not found, default is EUNE)
+
+
+Region:
+NA   -> North America
+EUW  -> Europe West
+EUNE -> Europe Nordic & East
+BR   -> Brazil
+TR   -> Turkey
+RU   -> Russia
+LAN  -> Latin America North
+LAS  -> Latin America South
+OCE  -> Oceania
